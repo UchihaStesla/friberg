@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+    <div class="connection-panel">
+        <h2>连接到游戏房间</h2>
+        <div class="form-group">
+            <label for="roomId">房间ID:</label>
+            <input type="text" id="roomId" name="roomId" placeholder="输入房间ID..." value="YMSTNX">
+            <button id="connectBtn" class="btn">连接</button>
+            <button id="readyBtn" class="btn btn-primary" disabled>准备就绪</button>
+            <button id="disconnectBtn" class="btn btn-danger" disabled>断开连接</button>
+        </div>
+        <div id="connectionStatus" class="status">未连接</div>
+    </div>
+
+    <div class="game-panel" style="display: none;">
+        <div class="panel-header">
+            <h2>猜测选手</h2>
+            <div class="controls">
+                <button id="autoGuessBtn" class="btn btn-primary">自动猜测</button>
+                <div class="guess-counter">剩余猜测: <span id="guessCounter">8</span></div>
+            </div>
+        </div>
+
+        <div class="panels-container">
+            <div class="recommendations-panel">
+                <h3>推荐选手</h3>
+                <div class="search-bar">
+                    <input type="text" id="searchPlayer" placeholder="搜索选手...">
+                </div>
+                <div id="playerList" class="player-list">
+                    <!-- 推荐选手将在这里动态生成 -->
+                </div>
+            </div>
+
+            <div class="guess-results-panel">
+                <h3>猜测结果</h3>
+                <div id="guessResults" class="guess-results">
+                    <!-- 猜测结果将在这里动态显示 -->
+                </div>
+                <div class="constraints-panel">
+                    <h3>当前约束条件</h3>
+                    <div id="constraints" class="constraints-list">
+                        <!-- 约束条件将在这里动态显示 -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

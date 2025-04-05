@@ -1,0 +1,8 @@
+FastAPI
+uvicorn
+pydantic
+websockets
+asyncio
+requests
+python-socketio
+aiofiles

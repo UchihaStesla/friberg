@@ -1,0 +1,1745 @@
+{
+    "AF": {
+      "code": "AF",
+      "name": "Afghanistan",
+      "countryCodeNumeric": "004",
+      "region": "mea",
+      "regionCode": 142
+    },
+    "AX": {
+      "code": "AX",
+      "name": "Åland Islands",
+      "countryCodeNumeric": 248,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "AL": {
+      "code": "AL",
+      "name": "Albania",
+      "countryCodeNumeric": "008",
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "DZ": {
+      "code": "DZ",
+      "name": "Algeria",
+      "countryCodeNumeric": "012",
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "AS": {
+      "code": "AS",
+      "name": "American Samoa",
+      "countryCodeNumeric": "016",
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "AD": {
+      "code": "AD",
+      "name": "Andorra",
+      "countryCodeNumeric": "020",
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "AO": {
+      "code": "AO",
+      "name": "Angola",
+      "countryCodeNumeric": "024",
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "AI": {
+      "code": "AI",
+      "name": "Anguilla",
+      "countryCodeNumeric": 660,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "AQ": {
+      "code": "AQ",
+      "name": "Antarctica",
+      "countryCodeNumeric": "010",
+      "region": "",
+      "regionCode": ""
+    },
+    "AG": {
+      "code": "AG",
+      "name": "Antigua and Barbuda",
+      "countryCodeNumeric": "028",
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "AR": {
+      "code": "AR",
+      "name": "Argentina",
+      "countryCodeNumeric": "032",
+      "region": "South America",
+      "regionCode": "019"
+    },
+    "AM": {
+      "code": "AM",
+      "name": "Armenia",
+      "countryCodeNumeric": "051",
+      "region": "CIS",
+      "regionCode": 142
+    },
+    "AW": {
+      "code": "AW",
+      "name": "Aruba",
+      "countryCodeNumeric": 533,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "AU": {
+      "code": "AU",
+      "name": "Australia",
+      "countryCodeNumeric": "036",
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "AT": {
+      "code": "AT",
+      "name": "Austria",
+      "countryCodeNumeric": "040",
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "AZ": {
+      "code": "AZ",
+      "name": "Azerbaijan",
+      "countryCodeNumeric": "031",
+      "region": "CIS",
+      "regionCode": 142
+    },
+    "BS": {
+      "code": "BS",
+      "name": "Bahamas",
+      "countryCodeNumeric": "044",
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "BH": {
+      "code": "BH",
+      "name": "Bahrain",
+      "countryCodeNumeric": "048",
+      "region": "mea",
+      "regionCode": 142
+    },
+    "BD": {
+      "code": "BD",
+      "name": "Bangladesh",
+      "countryCodeNumeric": "050",
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "BB": {
+      "code": "BB",
+      "name": "Barbados",
+      "countryCodeNumeric": "052",
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "BY": {
+      "code": "BY",
+      "name": "Belarus",
+      "countryCodeNumeric": 112,
+      "region": "CIS",
+      "regionCode": 150
+    },
+    "BE": {
+      "code": "BE",
+      "name": "Belgium",
+      "countryCodeNumeric": "056",
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "BZ": {
+      "code": "BZ",
+      "name": "Belize",
+      "countryCodeNumeric": "084",
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "BJ": {
+      "code": "BJ",
+      "name": "Benin",
+      "countryCodeNumeric": 204,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "BM": {
+      "code": "BM",
+      "name": "Bermuda",
+      "countryCodeNumeric": "060",
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "BT": {
+      "code": "BT",
+      "name": "Bhutan",
+      "countryCodeNumeric": "064",
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "BO": {
+      "code": "BO",
+      "name": "Bolivia (Plurinational State of)",
+      "countryCodeNumeric": "068",
+      "region": "South America",
+      "regionCode": "019"
+    },
+    "BQ": {
+      "code": "BQ",
+      "name": "Bonaire, Sint Eustatius and Saba",
+      "countryCodeNumeric": 535,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "BA": {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina",
+      "countryCodeNumeric": "070",
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "BW": {
+      "code": "BW",
+      "name": "Botswana",
+      "countryCodeNumeric": "072",
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "BR": {
+      "code": "BR",
+      "name": "Brazil",
+      "countryCodeNumeric": "076",
+      "region": "South America",
+      "regionCode": "019"
+    },
+    "IO": {
+      "code": "IO",
+      "name": "British Indian Ocean Territory",
+      "countryCodeNumeric": "086",
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "BN": {
+      "code": "BN",
+      "name": "Brunei Darussalam",
+      "countryCodeNumeric": "096",
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "BG": {
+      "code": "BG",
+      "name": "Bulgaria",
+      "countryCodeNumeric": 100,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "BF": {
+      "code": "BF",
+      "name": "Burkina Faso",
+      "countryCodeNumeric": 854,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "BI": {
+      "code": "BI",
+      "name": "Burundi",
+      "countryCodeNumeric": 108,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "CV": {
+      "code": "CV",
+      "name": "Cabo Verde",
+      "countryCodeNumeric": 132,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "KH": {
+      "code": "KH",
+      "name": "Cambodia",
+      "countryCodeNumeric": 116,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "CM": {
+      "code": "CM",
+      "name": "Cameroon",
+      "countryCodeNumeric": 120,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "CA": {
+      "code": "CA",
+      "name": "Canada",
+      "countryCodeNumeric": 124,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "KY": {
+      "code": "KY",
+      "name": "Cayman Islands",
+      "countryCodeNumeric": 136,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "CF": {
+      "code": "CF",
+      "name": "Central mean Republic",
+      "countryCodeNumeric": 140,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "TD": {
+      "code": "TD",
+      "name": "Chad",
+      "countryCodeNumeric": 148,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "CL": {
+      "code": "CL",
+      "name": "Chile",
+      "countryCodeNumeric": 152,
+      "region": "South America",
+      "regionCode": "019"
+    },
+    "CN": {
+      "code": "CN",
+      "name": "China",
+      "countryCodeNumeric": 156,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "CX": {
+      "code": "CX",
+      "name": "Christmas Island",
+      "countryCodeNumeric": 162,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "CC": {
+      "code": "CC",
+      "name": "Cocos (Keeling) Islands",
+      "countryCodeNumeric": 166,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "CO": {
+      "code": "CO",
+      "name": "Colombia",
+      "countryCodeNumeric": 170,
+      "region": "South America",
+      "regionCode": "019"
+    },
+    "KM": {
+      "code": "KM",
+      "name": "Comoros",
+      "countryCodeNumeric": 174,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "CG": {
+      "code": "CG",
+      "name": "Congo",
+      "countryCodeNumeric": 178,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "CD": {
+      "code": "CD",
+      "name": "Congo, Democratic Republic of the",
+      "countryCodeNumeric": 180,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "CK": {
+      "code": "CK",
+      "name": "Cook Islands",
+      "countryCodeNumeric": 184,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "CR": {
+      "code": "CR",
+      "name": "Costa Rica",
+      "countryCodeNumeric": 188,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "CI": {
+      "code": "CI",
+      "name": "Côte d'Ivoire",
+      "countryCodeNumeric": 384,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "HR": {
+      "code": "HR",
+      "name": "Croatia",
+      "countryCodeNumeric": 191,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "CU": {
+      "code": "CU",
+      "name": "Cuba",
+      "countryCodeNumeric": 192,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "CW": {
+      "code": "CW",
+      "name": "Curaçao",
+      "countryCodeNumeric": 531,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "CY": {
+      "code": "CY",
+      "name": "Cyprus",
+      "countryCodeNumeric": 196,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "CZ": {
+      "code": "CZ",
+      "name": "Czechia",
+      "countryCodeNumeric": 203,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "DK": {
+      "code": "DK",
+      "name": "Denmark",
+      "countryCodeNumeric": 208,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "DJ": {
+      "code": "DJ",
+      "name": "Djibouti",
+      "countryCodeNumeric": 262,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "DM": {
+      "code": "DM",
+      "name": "Dominica",
+      "countryCodeNumeric": 212,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "DO": {
+      "code": "DO",
+      "name": "Dominican Republic",
+      "countryCodeNumeric": 214,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "EC": {
+      "code": "EC",
+      "name": "Ecuador",
+      "countryCodeNumeric": 218,
+      "region": "South America",
+      "regionCode": "019"
+    },
+    "EG": {
+      "code": "EG",
+      "name": "Egypt",
+      "countryCodeNumeric": 818,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "SV": {
+      "code": "SV",
+      "name": "El Salvador",
+      "countryCodeNumeric": 222,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "GQ": {
+      "code": "GQ",
+      "name": "Equatorial Guinea",
+      "countryCodeNumeric": 226,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "ER": {
+      "code": "ER",
+      "name": "Eritrea",
+      "countryCodeNumeric": 232,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "EE": {
+      "code": "EE",
+      "name": "Estonia",
+      "countryCodeNumeric": 233,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "SZ": {
+      "code": "SZ",
+      "name": "Eswatini",
+      "countryCodeNumeric": 748,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "ET": {
+      "code": "ET",
+      "name": "Ethiopia",
+      "countryCodeNumeric": 231,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "FK": {
+      "code": "FK",
+      "name": "Falkland Islands (Malvinas)",
+      "countryCodeNumeric": 238,
+      "region": "South America",
+      "regionCode": "019"
+    },
+    "FO": {
+      "code": "FO",
+      "name": "Faroe Islands",
+      "countryCodeNumeric": 234,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "FJ": {
+      "code": "FJ",
+      "name": "Fiji",
+      "countryCodeNumeric": 242,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "FI": {
+      "code": "FI",
+      "name": "Finland",
+      "countryCodeNumeric": 246,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "FR": {
+      "code": "FR",
+      "name": "France",
+      "countryCodeNumeric": 250,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "GF": {
+      "code": "GF",
+      "name": "French Guiana",
+      "countryCodeNumeric": 254,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "PF": {
+      "code": "PF",
+      "name": "French Polynesia",
+      "countryCodeNumeric": 258,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "TF": {
+      "code": "TF",
+      "name": "French Southern Territories",
+      "countryCodeNumeric": 260,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "GA": {
+      "code": "GA",
+      "name": "Gabon",
+      "countryCodeNumeric": 266,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "GM": {
+      "code": "GM",
+      "name": "Gambia",
+      "countryCodeNumeric": 270,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "GE": {
+      "code": "GE",
+      "name": "Georgia",
+      "countryCodeNumeric": 268,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "DE": {
+      "code": "DE",
+      "name": "Germany",
+      "countryCodeNumeric": 276,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "GH": {
+      "code": "GH",
+      "name": "Ghana",
+      "countryCodeNumeric": 288,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "GI": {
+      "code": "GI",
+      "name": "Gibraltar",
+      "countryCodeNumeric": 292,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "GR": {
+      "code": "GR",
+      "name": "Greece",
+      "countryCodeNumeric": 300,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "GL": {
+      "code": "GL",
+      "name": "Greenland",
+      "countryCodeNumeric": 304,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "GD": {
+      "code": "GD",
+      "name": "Grenada",
+      "countryCodeNumeric": 308,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "GP": {
+      "code": "GP",
+      "name": "Guadeloupe",
+      "countryCodeNumeric": 312,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "GU": {
+      "code": "GU",
+      "name": "Guam",
+      "countryCodeNumeric": 316,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "GT": {
+      "code": "GT",
+      "name": "Guatemala",
+      "countryCodeNumeric": 320,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "GG": {
+      "code": "GG",
+      "name": "Guernsey",
+      "countryCodeNumeric": 831,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "GN": {
+      "code": "GN",
+      "name": "Guinea",
+      "countryCodeNumeric": 324,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "GW": {
+      "code": "GW",
+      "name": "Guinea-Bissau",
+      "countryCodeNumeric": 624,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "GY": {
+      "code": "GY",
+      "name": "Guyana",
+      "countryCodeNumeric": 328,
+      "region": "South America",
+      "regionCode": "019"
+    },
+    "HT": {
+      "code": "HT",
+      "name": "Haiti",
+      "countryCodeNumeric": 332,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "HM": {
+      "code": "HM",
+      "name": "Heard Island and McDonald Islands",
+      "countryCodeNumeric": 334,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "VA": {
+      "code": "VA",
+      "name": "Holy See",
+      "countryCodeNumeric": 336,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "HN": {
+      "code": "HN",
+      "name": "Honduras",
+      "countryCodeNumeric": 340,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "HK": {
+      "code": "HK",
+      "name": "Hong Kong",
+      "countryCodeNumeric": 344,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "HU": {
+      "code": "HU",
+      "name": "Hungary",
+      "countryCodeNumeric": 348,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "IS": {
+      "code": "IS",
+      "name": "Iceland",
+      "countryCodeNumeric": 352,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "IN": {
+      "code": "IN",
+      "name": "India",
+      "countryCodeNumeric": 356,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "ID": {
+      "code": "ID",
+      "name": "Indonesia",
+      "countryCodeNumeric": 360,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "IR": {
+      "code": "IR",
+      "name": "Iran (Islamic Republic of)",
+      "countryCodeNumeric": 364,
+      "region": "mea",
+      "regionCode": 142
+    },
+    "IQ": {
+      "code": "IQ",
+      "name": "Iraq",
+      "countryCodeNumeric": 368,
+      "region": "mea",
+      "regionCode": 142
+    },
+    "IE": {
+      "code": "IE",
+      "name": "Ireland",
+      "countryCodeNumeric": 372,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "IM": {
+      "code": "IM",
+      "name": "Isle of Man",
+      "countryCodeNumeric": 833,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "IL": {
+      "code": "IL",
+      "name": "Israel",
+      "countryCodeNumeric": 376,
+      "region": "mea",
+      "regionCode": 142
+    },
+    "IT": {
+      "code": "IT",
+      "name": "Italy",
+      "countryCodeNumeric": 380,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "JM": {
+      "code": "JM",
+      "name": "Jamaica",
+      "countryCodeNumeric": 388,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "JP": {
+      "code": "JP",
+      "name": "Japan",
+      "countryCodeNumeric": 392,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "JE": {
+      "code": "JE",
+      "name": "Jersey",
+      "countryCodeNumeric": 832,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "JO": {
+      "code": "JO",
+      "name": "Jordan",
+      "countryCodeNumeric": 400,
+      "region": "mea",
+      "regionCode": 142
+    },
+    "KZ": {
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "countryCodeNumeric": 398,
+      "region": "CIS",
+      "regionCode": 142
+    },
+    "KE": {
+      "code": "KE",
+      "name": "Kenya",
+      "countryCodeNumeric": 404,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "KI": {
+      "code": "KI",
+      "name": "Kiribati",
+      "countryCodeNumeric": 296,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "KP": {
+      "code": "KP",
+      "name": "Korea (Democratic People's Republic of)",
+      "countryCodeNumeric": 408,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "KR": {
+      "code": "KR",
+      "name": "Korea, Republic of",
+      "countryCodeNumeric": 410,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "KW": {
+      "code": "KW",
+      "name": "Kuwait",
+      "countryCodeNumeric": 414,
+      "region": "mea",
+      "regionCode": 142
+    },
+    "KG": {
+      "code": "KG",
+      "name": "Kyrgyzstan",
+      "countryCodeNumeric": 417,
+      "region": "CIS",
+      "regionCode": 142
+    },
+    "LA": {
+      "code": "LA",
+      "name": "Lao People's Democratic Republic",
+      "countryCodeNumeric": 418,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "LV": {
+      "code": "LV",
+      "name": "Latvia",
+      "countryCodeNumeric": 428,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "LB": {
+      "code": "LB",
+      "name": "Lebanon",
+      "countryCodeNumeric": 422,
+      "region": "mea",
+      "regionCode": 142
+    },
+    "LS": {
+      "code": "LS",
+      "name": "Lesotho",
+      "countryCodeNumeric": 426,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "LR": {
+      "code": "LR",
+      "name": "Liberia",
+      "countryCodeNumeric": 430,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "LY": {
+      "code": "LY",
+      "name": "Libya",
+      "countryCodeNumeric": 434,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "LI": {
+      "code": "LI",
+      "name": "Liechtenstein",
+      "countryCodeNumeric": 438,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "LT": {
+      "code": "LT",
+      "name": "Lithuania",
+      "countryCodeNumeric": 440,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "LU": {
+      "code": "LU",
+      "name": "Luxembourg",
+      "countryCodeNumeric": 442,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "MO": {
+      "code": "MO",
+      "name": "Macao",
+      "countryCodeNumeric": 446,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "MG": {
+      "code": "MG",
+      "name": "Madagascar",
+      "countryCodeNumeric": 450,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "MW": {
+      "code": "MW",
+      "name": "Malawi",
+      "countryCodeNumeric": 454,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "MY": {
+      "code": "MY",
+      "name": "Malaysia",
+      "countryCodeNumeric": 458,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "MV": {
+      "code": "MV",
+      "name": "Maldives",
+      "countryCodeNumeric": 462,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "ML": {
+      "code": "ML",
+      "name": "Mali",
+      "countryCodeNumeric": 466,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "MT": {
+      "code": "MT",
+      "name": "Malta",
+      "countryCodeNumeric": 470,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "MH": {
+      "code": "MH",
+      "name": "Marshall Islands",
+      "countryCodeNumeric": 584,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "MQ": {
+      "code": "MQ",
+      "name": "Martinique",
+      "countryCodeNumeric": 474,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "MR": {
+      "code": "MR",
+      "name": "Mauritania",
+      "countryCodeNumeric": 478,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "MU": {
+      "code": "MU",
+      "name": "Mauritius",
+      "countryCodeNumeric": 480,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "YT": {
+      "code": "YT",
+      "name": "Mayotte",
+      "countryCodeNumeric": 175,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "MX": {
+      "code": "MX",
+      "name": "Mexico",
+      "countryCodeNumeric": 484,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "FM": {
+      "code": "FM",
+      "name": "Micronesia (Federated States of)",
+      "countryCodeNumeric": 583,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "MD": {
+      "code": "MD",
+      "name": "Moldova, Republic of",
+      "countryCodeNumeric": 498,
+      "region": "CIS",
+      "regionCode": 150
+    },
+    "MC": {
+      "code": "MC",
+      "name": "Monaco",
+      "countryCodeNumeric": 492,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "MN": {
+      "code": "MN",
+      "name": "Mongolia",
+      "countryCodeNumeric": 496,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "ME": {
+      "code": "ME",
+      "name": "Montenegro",
+      "countryCodeNumeric": 499,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "MS": {
+      "code": "MS",
+      "name": "Montserrat",
+      "countryCodeNumeric": 500,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "MA": {
+      "code": "MA",
+      "name": "Morocco",
+      "countryCodeNumeric": 504,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "MZ": {
+      "code": "MZ",
+      "name": "Mozambique",
+      "countryCodeNumeric": 508,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "MM": {
+      "code": "MM",
+      "name": "Myanmar",
+      "countryCodeNumeric": 104,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "NA": {
+      "code": "NA",
+      "name": "Namibia",
+      "countryCodeNumeric": 516,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "NR": {
+      "code": "NR",
+      "name": "Nauru",
+      "countryCodeNumeric": 520,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "NP": {
+      "code": "NP",
+      "name": "Nepal",
+      "countryCodeNumeric": 524,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "NL": {
+      "code": "NL",
+      "name": "Netherlands",
+      "countryCodeNumeric": 528,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "NC": {
+      "code": "NC",
+      "name": "New Caledonia",
+      "countryCodeNumeric": 540,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "NZ": {
+      "code": "NZ",
+      "name": "New Zealand",
+      "countryCodeNumeric": 554,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "NI": {
+      "code": "NI",
+      "name": "Nicaragua",
+      "countryCodeNumeric": 558,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "NE": {
+      "code": "NE",
+      "name": "Niger",
+      "countryCodeNumeric": 562,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "NG": {
+      "code": "NG",
+      "name": "Nigeria",
+      "countryCodeNumeric": 566,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "NU": {
+      "code": "NU",
+      "name": "Niue",
+      "countryCodeNumeric": 570,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "NF": {
+      "code": "NF",
+      "name": "Norfolk Island",
+      "countryCodeNumeric": 574,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "MK": {
+      "code": "MK",
+      "name": "North Macedonia",
+      "countryCodeNumeric": 807,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "MP": {
+      "code": "MP",
+      "name": "Northern Mariana Islands",
+      "countryCodeNumeric": 580,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "NO": {
+      "code": "NO",
+      "name": "Norway",
+      "countryCodeNumeric": 578,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "OM": {
+      "code": "OM",
+      "name": "Oman",
+      "countryCodeNumeric": 512,
+      "region": "mea",
+      "regionCode": 142
+    },
+    "PK": {
+      "code": "PK",
+      "name": "Pakistan",
+      "countryCodeNumeric": 586,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "PW": {
+      "code": "PW",
+      "name": "Palau",
+      "countryCodeNumeric": 585,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "PS": {
+      "code": "PS",
+      "name": "Palestine, State of",
+      "countryCodeNumeric": 275,
+      "region": "mea",
+      "regionCode": 142
+    },
+    "PA": {
+      "code": "PA",
+      "name": "Panama",
+      "countryCodeNumeric": 591,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "PG": {
+      "code": "PG",
+      "name": "Papua New Guinea",
+      "countryCodeNumeric": 598,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "PY": {
+      "code": "PY",
+      "name": "Paraguay",
+      "countryCodeNumeric": 600,
+      "region": "South America ",
+      "regionCode": "019"
+    },
+    "PE": {
+      "code": "PE",
+      "name": "Peru",
+      "countryCodeNumeric": 604,
+      "region": "South America",
+      "regionCode": "019"
+    },
+    "PH": {
+      "code": "PH",
+      "name": "Philippines",
+      "countryCodeNumeric": 608,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "PN": {
+      "code": "PN",
+      "name": "Pitcairn",
+      "countryCodeNumeric": 612,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "PL": {
+      "code": "PL",
+      "name": "Poland",
+      "countryCodeNumeric": 616,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "PT": {
+      "code": "PT",
+      "name": "Portugal",
+      "countryCodeNumeric": 620,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "PR": {
+      "code": "PR",
+      "name": "Puerto Rico",
+      "countryCodeNumeric": 630,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "QA": {
+      "code": "QA",
+      "name": "Qatar",
+      "countryCodeNumeric": 634,
+      "region": "mea",
+      "regionCode": 142
+    },
+    "RE": {
+      "code": "RE",
+      "name": "Réunion",
+      "countryCodeNumeric": 638,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "RO": {
+      "code": "RO",
+      "name": "Romania",
+      "countryCodeNumeric": 642,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "RU": {
+      "code": "RU",
+      "name": "Russian Federation",
+      "countryCodeNumeric": 643,
+      "region": "CIS",
+      "regionCode": 150
+    },
+    "RW": {
+      "code": "RW",
+      "name": "Rwanda",
+      "countryCodeNumeric": 646,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "BL": {
+      "code": "BL",
+      "name": "Saint Barthélemy",
+      "countryCodeNumeric": 652,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "SH": {
+      "code": "SH",
+      "name": "Saint Helena, Ascension and Tristan da Cunha",
+      "countryCodeNumeric": 654,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "KN": {
+      "code": "KN",
+      "name": "Saint Kitts and Nevis",
+      "countryCodeNumeric": 659,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "LC": {
+      "code": "LC",
+      "name": "Saint Lucia",
+      "countryCodeNumeric": 662,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "MF": {
+      "code": "MF",
+      "name": "Saint Martin (French part)",
+      "countryCodeNumeric": 663,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "PM": {
+      "code": "PM",
+      "name": "Saint Pierre and Miquelon",
+      "countryCodeNumeric": 666,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "VC": {
+      "code": "VC",
+      "name": "Saint Vincent and the Grenadines",
+      "countryCodeNumeric": 670,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "WS": {
+      "code": "WS",
+      "name": "Samoa",
+      "countryCodeNumeric": 882,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "SM": {
+      "code": "SM",
+      "name": "San Marino",
+      "countryCodeNumeric": 674,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "ST": {
+      "code": "ST",
+      "name": "Sao Tome and Principe",
+      "countryCodeNumeric": 678,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "SA": {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "countryCodeNumeric": 682,
+      "region": "mea",
+      "regionCode": 142
+    },
+    "SN": {
+      "code": "SN",
+      "name": "Senegal",
+      "countryCodeNumeric": 686,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "RS": {
+      "code": "RS",
+      "name": "Serbia",
+      "countryCodeNumeric": 688,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "SC": {
+      "code": "SC",
+      "name": "Seychelles",
+      "countryCodeNumeric": 690,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "SL": {
+      "code": "SL",
+      "name": "Sierra Leone",
+      "countryCodeNumeric": 694,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "SG": {
+      "code": "SG",
+      "name": "Singapore",
+      "countryCodeNumeric": 702,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "SX": {
+      "code": "SX",
+      "name": "Sint Maarten (Dutch part)",
+      "countryCodeNumeric": 534,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "SK": {
+      "code": "SK",
+      "name": "Slovakia",
+      "countryCodeNumeric": 703,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "SI": {
+      "code": "SI",
+      "name": "Slovenia",
+      "countryCodeNumeric": 705,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "SB": {
+      "code": "SB",
+      "name": "Solomon Islands",
+      "countryCodeNumeric": "090",
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "SO": {
+      "code": "SO",
+      "name": "Somalia",
+      "countryCodeNumeric": 706,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "ZA": {
+      "code": "ZA",
+      "name": "South mea",
+      "countryCodeNumeric": 710,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "GS": {
+      "code": "GS",
+      "name": "South Georgia and the South Sandwich Islands",
+      "countryCodeNumeric": 239,
+      "region": "South America",
+      "regionCode": "019"
+    },
+    "SS": {
+      "code": "SS",
+      "name": "South Sudan",
+      "countryCodeNumeric": 728,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "ES": {
+      "code": "ES",
+      "name": "Spain",
+      "countryCodeNumeric": 724,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "LK": {
+      "code": "LK",
+      "name": "Sri Lanka",
+      "countryCodeNumeric": 144,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "SD": {
+      "code": "SD",
+      "name": "Sudan",
+      "countryCodeNumeric": 729,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "SR": {
+      "code": "SR",
+      "name": "Suriname",
+      "countryCodeNumeric": 740,
+      "region": "South America",
+      "regionCode": "019"
+    },
+    "SJ": {
+      "code": "SJ",
+      "name": "Svalbard and Jan Mayen",
+      "countryCodeNumeric": 744,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "SE": {
+      "code": "SE",
+      "name": "Sweden",
+      "countryCodeNumeric": 752,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "CH": {
+      "code": "CH",
+      "name": "Switzerland",
+      "countryCodeNumeric": 756,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "SY": {
+      "code": "SY",
+      "name": "Syrian Arab Republic",
+      "countryCodeNumeric": 760,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "TW": {
+      "code": "TW",
+      "name": "Taiwan, Province of China",
+      "countryCodeNumeric": 158,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "TJ": {
+      "code": "TJ",
+      "name": "Tajikistan",
+      "countryCodeNumeric": 762,
+      "region": "CIS",
+      "regionCode": 142
+    },
+    "TZ": {
+      "code": "TZ",
+      "name": "Tanzania, United Republic of",
+      "countryCodeNumeric": 834,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "TH": {
+      "code": "TH",
+      "name": "Thailand",
+      "countryCodeNumeric": 764,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "TL": {
+      "code": "TL",
+      "name": "Timor-Leste",
+      "countryCodeNumeric": 626,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "TG": {
+      "code": "TG",
+      "name": "Togo",
+      "countryCodeNumeric": 768,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "TK": {
+      "code": "TK",
+      "name": "Tokelau",
+      "countryCodeNumeric": 772,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "TO": {
+      "code": "TO",
+      "name": "Tonga",
+      "countryCodeNumeric": 776,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "TT": {
+      "code": "TT",
+      "name": "Trinidad and Tobago",
+      "countryCodeNumeric": 780,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "TN": {
+      "code": "TN",
+      "name": "Tunisia",
+      "countryCodeNumeric": 788,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "TR": {
+      "code": "TR",
+      "name": "Turkey",
+      "countryCodeNumeric": 792,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "TM": {
+      "code": "TM",
+      "name": "Turkmenistan",
+      "countryCodeNumeric": 795,
+      "region": "CIS",
+      "regionCode": 142
+    },
+    "TC": {
+      "code": "TC",
+      "name": "Turks and Caicos Islands",
+      "countryCodeNumeric": 796,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "TV": {
+      "code": "TV",
+      "name": "Tuvalu",
+      "countryCodeNumeric": 798,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "UG": {
+      "code": "UG",
+      "name": "Uganda",
+      "countryCodeNumeric": 800,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "UA": {
+      "code": "UA",
+      "name": "Ukraine",
+      "countryCodeNumeric": 804,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "AE": {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "countryCodeNumeric": 784,
+      "region": "mea",
+      "regionCode": 142
+    },
+    "GB": {
+      "code": "GB",
+      "name": "United Kingdom of Great Britain and Northern Ireland",
+      "countryCodeNumeric": 826,
+      "region": "Europe",
+      "regionCode": 150
+    },
+    "US": {
+      "code": "US",
+      "name": "United States of America",
+      "countryCodeNumeric": 840,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "UM": {
+      "code": "UM",
+      "name": "United States Minor Outlying Islands",
+      "countryCodeNumeric": 581,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "UY": {
+      "code": "UY",
+      "name": "Uruguay",
+      "countryCodeNumeric": 858,
+      "region": "South America",
+      "regionCode": "019"
+    },
+    "UZ": {
+      "code": "UZ",
+      "name": "Uzbekistan",
+      "countryCodeNumeric": 860,
+      "region": "CIS",
+      "regionCode": 142
+    },
+    "VU": {
+      "code": "VU",
+      "name": "Vanuatu",
+      "countryCodeNumeric": 548,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "VE": {
+      "code": "VE",
+      "name": "Venezuela (Bolivarian Republic of)",
+      "countryCodeNumeric": 862,
+      "region": "South America",
+      "regionCode": "019"
+    },
+    "VN": {
+      "code": "VN",
+      "name": "Viet Nam",
+      "countryCodeNumeric": 704,
+      "region": "Asia",
+      "regionCode": 142
+    },
+    "VG": {
+      "code": "VG",
+      "name": "Virgin Islands (British)",
+      "countryCodeNumeric": "092",
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "VI": {
+      "code": "VI",
+      "name": "Virgin Islands (U.S.)",
+      "countryCodeNumeric": 850,
+      "region": "North America",
+      "regionCode": "019"
+    },
+    "WF": {
+      "code": "WF",
+      "name": "Wallis and Futuna",
+      "countryCodeNumeric": 876,
+      "region": "Oceania",
+      "regionCode": "009"
+    },
+    "EH": {
+      "code": "EH",
+      "name": "Western Sahara",
+      "countryCodeNumeric": 732,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "YE": {
+      "code": "YE",
+      "name": "Yemen",
+      "countryCodeNumeric": 887,
+      "region": "mea",
+      "regionCode": 142
+    },
+    "ZM": {
+      "code": "ZM",
+      "name": "Zambia",
+      "countryCodeNumeric": 894,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "ZW": {
+      "code": "ZW",
+      "name": "Zimbabwe",
+      "countryCodeNumeric": 716,
+      "region": "mea",
+      "regionCode": "002"
+    },
+    "XK": {
+      "code": "XK",
+      "name": "Kosovo, Republic of",
+      "countryCodeNumeric": 1001,
+      "region": "Europe",
+      "regionCode": 150
+    }
+  }
