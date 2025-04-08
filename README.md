@@ -103,7 +103,7 @@ pip install -r requirements.txt
 ## Development / 开发
 To contribute to the development:
 
-要参与开发：
+参与开发：
 
 1. Set up a virtual environment / 设置虚拟环境:
    ```bash
@@ -113,13 +113,9 @@ To contribute to the development:
 
 2. Install development dependencies / 安装开发依赖:
    ```bash
-   pip install -r requirements-dev.txt
+   pip install -r requirements.txt
    ```
 
-3. Run tests / 运行测试:
-   ```bash
-   pytest
-   ```
 
 ## Contributing / 贡献
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
