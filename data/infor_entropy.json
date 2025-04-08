@@ -1,0 +1,1376 @@
+{
+  "title": "CS2 Players Information Entropy",
+  "total_players": 274,
+  "players": [
+    {
+      "rank": 1,
+      "name": "HooXi",
+      "entropy": 3.8658499787305596
+    },
+    {
+      "rank": 2,
+      "name": "valde",
+      "entropy": 3.8658499787305596
+    },
+    {
+      "rank": 3,
+      "name": "hutji",
+      "entropy": 3.85563576662722
+    },
+    {
+      "rank": 4,
+      "name": "syrsoN",
+      "entropy": 3.818574080296276
+    },
+    {
+      "rank": 5,
+      "name": "swag",
+      "entropy": 3.798328543180236
+    },
+    {
+      "rank": 6,
+      "name": "DavCost",
+      "entropy": 3.791637441137109
+    },
+    {
+      "rank": 7,
+      "name": "roeJ",
+      "entropy": 3.7878625470785408
+    },
+    {
+      "rank": 8,
+      "name": "sjuush",
+      "entropy": 3.767927535104853
+    },
+    {
+      "rank": 9,
+      "name": "floppy",
+      "entropy": 3.7082055996356877
+    },
+    {
+      "rank": 10,
+      "name": "aliStair",
+      "entropy": 3.69886235857747
+    },
+    {
+      "rank": 11,
+      "name": "loWel",
+      "entropy": 3.692841509219875
+    },
+    {
+      "rank": 12,
+      "name": "nicoodoz",
+      "entropy": 3.687895965244201
+    },
+    {
+      "rank": 13,
+      "name": "rallen",
+      "entropy": 3.6779813929564167
+    },
+    {
+      "rank": 14,
+      "name": "nexa",
+      "entropy": 3.6558297054801177
+    },
+    {
+      "rank": 15,
+      "name": "niko",
+      "entropy": 3.6279908218353007
+    },
+    {
+      "rank": 16,
+      "name": "nawwk",
+      "entropy": 3.623164074184025
+    },
+    {
+      "rank": 17,
+      "name": "felps",
+      "entropy": 3.622916217955481
+    },
+    {
+      "rank": 18,
+      "name": "es3tag",
+      "entropy": 3.6142225627743554
+    },
+    {
+      "rank": 19,
+      "name": "suNny",
+      "entropy": 3.614076565510082
+    },
+    {
+      "rank": 20,
+      "name": "HEN1",
+      "entropy": 3.6106545793013614
+    },
+    {
+      "rank": 21,
+      "name": "Pimp",
+      "entropy": 3.587419709644491
+    },
+    {
+      "rank": 22,
+      "name": "Lekr0",
+      "entropy": 3.5631710204362883
+    },
+    {
+      "rank": 23,
+      "name": "RUBINO",
+      "entropy": 3.5441775181210873
+    },
+    {
+      "rank": 24,
+      "name": "refrezh",
+      "entropy": 3.539517506988522
+    },
+    {
+      "rank": 25,
+      "name": "Sico",
+      "entropy": 3.5245975156556937
+    },
+    {
+      "rank": 26,
+      "name": "biguzera",
+      "entropy": 3.5214149374407553
+    },
+    {
+      "rank": 27,
+      "name": "k1to",
+      "entropy": 3.515741879361425
+    },
+    {
+      "rank": 28,
+      "name": "wayLander",
+      "entropy": 3.513795761274731
+    },
+    {
+      "rank": 29,
+      "name": "JACKZ",
+      "entropy": 3.5094093913249935
+    },
+    {
+      "rank": 30,
+      "name": "ShahZam",
+      "entropy": 3.5054218589274275
+    },
+    {
+      "rank": 31,
+      "name": "hardzao",
+      "entropy": 3.488050304911909
+    },
+    {
+      "rank": 32,
+      "name": "Krad",
+      "entropy": 3.4752321775030057
+    },
+    {
+      "rank": 33,
+      "name": "Patti",
+      "entropy": 3.4522843895730784
+    },
+    {
+      "rank": 34,
+      "name": "saffee",
+      "entropy": 3.448719309469421
+    },
+    {
+      "rank": 35,
+      "name": "JOTA",
+      "entropy": 3.4273655906882405
+    },
+    {
+      "rank": 36,
+      "name": "hampus",
+      "entropy": 3.4200311637732503
+    },
+    {
+      "rank": 37,
+      "name": "Stewie2K",
+      "entropy": 3.4018955946900733
+    },
+    {
+      "rank": 38,
+      "name": "fnx",
+      "entropy": 3.3931985136933496
+    },
+    {
+      "rank": 39,
+      "name": "NODIOS",
+      "entropy": 3.3858537885605835
+    },
+    {
+      "rank": 40,
+      "name": "Queenix",
+      "entropy": 3.3858537885605835
+    },
+    {
+      "rank": 41,
+      "name": "Goofy",
+      "entropy": 3.37825392905988
+    },
+    {
+      "rank": 42,
+      "name": "chelo",
+      "entropy": 3.3684366811805484
+    },
+    {
+      "rank": 43,
+      "name": "MSL",
+      "entropy": 3.3659729465740376
+    },
+    {
+      "rank": 44,
+      "name": "Maikelele",
+      "entropy": 3.362850211334018
+    },
+    {
+      "rank": 45,
+      "name": "DeadFox",
+      "entropy": 3.3489558573611404
+    },
+    {
+      "rank": 46,
+      "name": "Summer",
+      "entropy": 3.33238882700426
+    },
+    {
+      "rank": 47,
+      "name": "Attacker",
+      "entropy": 3.3306799716698823
+    },
+    {
+      "rank": 48,
+      "name": "Spiidi",
+      "entropy": 3.329793351285751
+    },
+    {
+      "rank": 49,
+      "name": "INS",
+      "entropy": 3.3199726574527864
+    },
+    {
+      "rank": 50,
+      "name": "mezii",
+      "entropy": 3.3107771258051386
+    },
+    {
+      "rank": 51,
+      "name": "juanflatroo",
+      "entropy": 3.3033584408846037
+    },
+    {
+      "rank": 52,
+      "name": "SENER1",
+      "entropy": 3.3033584408846037
+    },
+    {
+      "rank": 53,
+      "name": "autimatic",
+      "entropy": 3.302761974096763
+    },
+    {
+      "rank": 54,
+      "name": "somebody",
+      "entropy": 3.2977238451692816
+    },
+    {
+      "rank": 55,
+      "name": "KQLY",
+      "entropy": 3.2947739694796097
+    },
+    {
+      "rank": 56,
+      "name": "TeSeS",
+      "entropy": 3.2936694569844294
+    },
+    {
+      "rank": 57,
+      "name": "malta",
+      "entropy": 3.2932618095252213
+    },
+    {
+      "rank": 58,
+      "name": "dycha",
+      "entropy": 3.285057659985902
+    },
+    {
+      "rank": 59,
+      "name": "Havoc",
+      "entropy": 3.277226602039457
+    },
+    {
+      "rank": 60,
+      "name": "sdy",
+      "entropy": 3.273345864662011
+    },
+    {
+      "rank": 61,
+      "name": "hades",
+      "entropy": 3.270647256371866
+    },
+    {
+      "rank": 62,
+      "name": "AZK",
+      "entropy": 3.268670778643065
+    },
+    {
+      "rank": 63,
+      "name": "interz",
+      "entropy": 3.266945700453222
+    },
+    {
+      "rank": 64,
+      "name": "tiziaN",
+      "entropy": 3.2644275127473663
+    },
+    {
+      "rank": 65,
+      "name": "SunPayus",
+      "entropy": 3.2630108787628966
+    },
+    {
+      "rank": 66,
+      "name": "denis",
+      "entropy": 3.2606140074294627
+    },
+    {
+      "rank": 67,
+      "name": "TACO",
+      "entropy": 3.2526536725187287
+    },
+    {
+      "rank": 68,
+      "name": "stavn",
+      "entropy": 3.252352914004348
+    },
+    {
+      "rank": 69,
+      "name": "degster",
+      "entropy": 3.2497534059352127
+    },
+    {
+      "rank": 70,
+      "name": "sinnopsyy",
+      "entropy": 3.247041109192638
+    },
+    {
+      "rank": 71,
+      "name": "raalz",
+      "entropy": 3.245826091305149
+    },
+    {
+      "rank": 72,
+      "name": "maden",
+      "entropy": 3.244392134012009
+    },
+    {
+      "rank": 73,
+      "name": "JUST",
+      "entropy": 3.242864602597542
+    },
+    {
+      "rank": 74,
+      "name": "Liazz",
+      "entropy": 3.2415912752058267
+    },
+    {
+      "rank": 75,
+      "name": "twist",
+      "entropy": 3.240668834381865
+    },
+    {
+      "rank": 76,
+      "name": "flamie",
+      "entropy": 3.2370020218026223
+    },
+    {
+      "rank": 77,
+      "name": "Grim",
+      "entropy": 3.236165881744326
+    },
+    {
+      "rank": 78,
+      "name": "iM",
+      "entropy": 3.2327989280534974
+    },
+    {
+      "rank": 79,
+      "name": "FL1T",
+      "entropy": 3.2262506832544373
+    },
+    {
+      "rank": 80,
+      "name": "sh1ro",
+      "entropy": 3.218161682884877
+    },
+    {
+      "rank": 81,
+      "name": "LEGIJA",
+      "entropy": 3.2148812737722348
+    },
+    {
+      "rank": 82,
+      "name": "SPUNJ",
+      "entropy": 3.204406702391058
+    },
+    {
+      "rank": 83,
+      "name": "nafany",
+      "entropy": 3.2031035810011446
+    },
+    {
+      "rank": 84,
+      "name": "shroud",
+      "entropy": 3.200404087923706
+    },
+    {
+      "rank": 85,
+      "name": "misutaaa",
+      "entropy": 3.1858458198812305
+    },
+    {
+      "rank": 86,
+      "name": "volt",
+      "entropy": 3.178285060934452
+    },
+    {
+      "rank": 87,
+      "name": "gxx-",
+      "entropy": 3.177370720349697
+    },
+    {
+      "rank": 88,
+      "name": "rigoN",
+      "entropy": 3.177370720349697
+    },
+    {
+      "rank": 89,
+      "name": "XANTARES",
+      "entropy": 3.1764277410200705
+    },
+    {
+      "rank": 90,
+      "name": "JT",
+      "entropy": 3.175883376558305
+    },
+    {
+      "rank": 91,
+      "name": "woxic",
+      "entropy": 3.175626009447776
+    },
+    {
+      "rank": 92,
+      "name": "huNter",
+      "entropy": 3.171149109814863
+    },
+    {
+      "rank": 93,
+      "name": "imoRR",
+      "entropy": 3.169532078144084
+    },
+    {
+      "rank": 94,
+      "name": "dexter",
+      "entropy": 3.143307345011255
+    },
+    {
+      "rank": 95,
+      "name": "CeRq",
+      "entropy": 3.1420365720550447
+    },
+    {
+      "rank": 96,
+      "name": "ScreaM",
+      "entropy": 3.1406694984317527
+    },
+    {
+      "rank": 97,
+      "name": "hazed",
+      "entropy": 3.1304597251079405
+    },
+    {
+      "rank": 98,
+      "name": "VINI",
+      "entropy": 3.1246777079224617
+    },
+    {
+      "rank": 99,
+      "name": "kUcheR",
+      "entropy": 3.1183535882670794
+    },
+    {
+      "rank": 100,
+      "name": "Ax1Le",
+      "entropy": 3.112559196814969
+    },
+    {
+      "rank": 101,
+      "name": "Keoz",
+      "entropy": 3.105433543248027
+    },
+    {
+      "rank": 102,
+      "name": "seized",
+      "entropy": 3.100799018969157
+    },
+    {
+      "rank": 103,
+      "name": "Magisk",
+      "entropy": 3.096812614818251
+    },
+    {
+      "rank": 104,
+      "name": "latto",
+      "entropy": 3.0873079883405072
+    },
+    {
+      "rank": 105,
+      "name": "s1mple",
+      "entropy": 3.0659454294613804
+    },
+    {
+      "rank": 106,
+      "name": "bodyy",
+      "entropy": 3.057412918514667
+    },
+    {
+      "rank": 107,
+      "name": "SEMPHIS",
+      "entropy": 3.0554432238581843
+    },
+    {
+      "rank": 108,
+      "name": "mou",
+      "entropy": 3.05501534660204
+    },
+    {
+      "rank": 109,
+      "name": "chopper",
+      "entropy": 3.053988206764898
+    },
+    {
+      "rank": 110,
+      "name": "blameF",
+      "entropy": 3.0503552713143844
+    },
+    {
+      "rank": 111,
+      "name": "jkaem",
+      "entropy": 3.044822898104374
+    },
+    {
+      "rank": 112,
+      "name": "Skadoodle",
+      "entropy": 3.044223143021554
+    },
+    {
+      "rank": 113,
+      "name": "ewjerkz",
+      "entropy": 3.037515411785867
+    },
+    {
+      "rank": 114,
+      "name": "Aleksib",
+      "entropy": 3.033809144572268
+    },
+    {
+      "rank": 115,
+      "name": "exit",
+      "entropy": 3.0286302212684277
+    },
+    {
+      "rank": 116,
+      "name": "frozen",
+      "entropy": 3.028343052189211
+    },
+    {
+      "rank": 117,
+      "name": "Spinx",
+      "entropy": 3.021121925110135
+    },
+    {
+      "rank": 118,
+      "name": "reltuC",
+      "entropy": 3.0207905837809736
+    },
+    {
+      "rank": 119,
+      "name": "broky",
+      "entropy": 3.015523190918142
+    },
+    {
+      "rank": 120,
+      "name": "mopoz",
+      "entropy": 3.0155153513936748
+    },
+    {
+      "rank": 121,
+      "name": "cadiaN",
+      "entropy": 3.010561950658695
+    },
+    {
+      "rank": 122,
+      "name": "Farlig",
+      "entropy": 3.008509779348369
+    },
+    {
+      "rank": 123,
+      "name": "kioShiMa",
+      "entropy": 3.006963906557389
+    },
+    {
+      "rank": 124,
+      "name": "Brollan",
+      "entropy": 3.004944863300702
+    },
+    {
+      "rank": 125,
+      "name": "jdm64",
+      "entropy": 3.0047043382445833
+    },
+    {
+      "rank": 126,
+      "name": "T.c",
+      "entropy": 3.000027424123679
+    },
+    {
+      "rank": 127,
+      "name": "Devilwalk",
+      "entropy": 2.994844580547572
+    },
+    {
+      "rank": 128,
+      "name": "REZ",
+      "entropy": 2.9837333094923784
+    },
+    {
+      "rank": 129,
+      "name": "Qikert",
+      "entropy": 2.9773552088949358
+    },
+    {
+      "rank": 130,
+      "name": "FASHR",
+      "entropy": 2.97706033186107
+    },
+    {
+      "rank": 131,
+      "name": "arT",
+      "entropy": 2.973660122507269
+    },
+    {
+      "rank": 132,
+      "name": "NertZ",
+      "entropy": 2.9705966899191374
+    },
+    {
+      "rank": 133,
+      "name": "KSCERATO",
+      "entropy": 2.965750388965169
+    },
+    {
+      "rank": 134,
+      "name": "yuurih",
+      "entropy": 2.965750388965169
+    },
+    {
+      "rank": 135,
+      "name": "jabbi",
+      "entropy": 2.965565148701642
+    },
+    {
+      "rank": 136,
+      "name": "nex",
+      "entropy": 2.9646944849425387
+    },
+    {
+      "rank": 137,
+      "name": "jL",
+      "entropy": 2.9646368139179176
+    },
+    {
+      "rank": 138,
+      "name": "Zyphon",
+      "entropy": 2.962953897896094
+    },
+    {
+      "rank": 139,
+      "name": "pronax",
+      "entropy": 2.9556445897304755
+    },
+    {
+      "rank": 140,
+      "name": "JDC",
+      "entropy": 2.9545797633976334
+    },
+    {
+      "rank": 141,
+      "name": "bLitz",
+      "entropy": 2.951571031784688
+    },
+    {
+      "rank": 142,
+      "name": "Freeman",
+      "entropy": 2.94668346741283
+    },
+    {
+      "rank": 143,
+      "name": "drop",
+      "entropy": 2.9446429959296228
+    },
+    {
+      "rank": 144,
+      "name": "dephh",
+      "entropy": 2.937305590723111
+    },
+    {
+      "rank": 145,
+      "name": "b1t",
+      "entropy": 2.9357798868578806
+    },
+    {
+      "rank": 146,
+      "name": "friberg",
+      "entropy": 2.935622769357318
+    },
+    {
+      "rank": 147,
+      "name": "kaze",
+      "entropy": 2.9320099613672914
+    },
+    {
+      "rank": 148,
+      "name": "adamS",
+      "entropy": 2.9309999724360813
+    },
+    {
+      "rank": 149,
+      "name": "b4rtiN",
+      "entropy": 2.930646288499098
+    },
+    {
+      "rank": 150,
+      "name": "facecrack",
+      "entropy": 2.9277907748737073
+    },
+    {
+      "rank": 151,
+      "name": "magixx",
+      "entropy": 2.9228560731854807
+    },
+    {
+      "rank": 152,
+      "name": "jnt",
+      "entropy": 2.9222538604121087
+    },
+    {
+      "rank": 153,
+      "name": "dumau",
+      "entropy": 2.917191167371815
+    },
+    {
+      "rank": 154,
+      "name": "kennyS",
+      "entropy": 2.9162194747761734
+    },
+    {
+      "rank": 155,
+      "name": "WorldEdit",
+      "entropy": 2.9104293457242485
+    },
+    {
+      "rank": 156,
+      "name": "max",
+      "entropy": 2.9090722403140727
+    },
+    {
+      "rank": 157,
+      "name": "aizy",
+      "entropy": 2.896024533982924
+    },
+    {
+      "rank": 158,
+      "name": "byali",
+      "entropy": 2.8906469705294486
+    },
+    {
+      "rank": 159,
+      "name": "isak",
+      "entropy": 2.8886550387359757
+    },
+    {
+      "rank": 160,
+      "name": "slaxz-",
+      "entropy": 2.878064030838234
+    },
+    {
+      "rank": 161,
+      "name": "neaLaN",
+      "entropy": 2.873182422294379
+    },
+    {
+      "rank": 162,
+      "name": "robiin",
+      "entropy": 2.8708876320579058
+    },
+    {
+      "rank": 163,
+      "name": "hallzerk",
+      "entropy": 2.8668901528799378
+    },
+    {
+      "rank": 164,
+      "name": "tabseN",
+      "entropy": 2.8587446729060164
+    },
+    {
+      "rank": 165,
+      "name": "oskar",
+      "entropy": 2.858305664312075
+    },
+    {
+      "rank": 166,
+      "name": "CYPHER",
+      "entropy": 2.8534663990729237
+    },
+    {
+      "rank": 167,
+      "name": "skullz",
+      "entropy": 2.8532532442613934
+    },
+    {
+      "rank": 168,
+      "name": "kyxsan",
+      "entropy": 2.847345086957543
+    },
+    {
+      "rank": 169,
+      "name": "fame",
+      "entropy": 2.8460008999701727
+    },
+    {
+      "rank": 170,
+      "name": "shalfey",
+      "entropy": 2.8327804092807356
+    },
+    {
+      "rank": 171,
+      "name": "jks",
+      "entropy": 2.8323514815637476
+    },
+    {
+      "rank": 172,
+      "name": "electronic",
+      "entropy": 2.8316178060559456
+    },
+    {
+      "rank": 173,
+      "name": "faveN",
+      "entropy": 2.829539313684865
+    },
+    {
+      "rank": 174,
+      "name": "s1ren",
+      "entropy": 2.826405156548127
+    },
+    {
+      "rank": 175,
+      "name": "adreN",
+      "entropy": 2.822305379888494
+    },
+    {
+      "rank": 176,
+      "name": "SALAZAR",
+      "entropy": 2.8155789139358904
+    },
+    {
+      "rank": 177,
+      "name": "flusha",
+      "entropy": 2.8056297836289392
+    },
+    {
+      "rank": 178,
+      "name": "stanislaw",
+      "entropy": 2.804008238940481
+    },
+    {
+      "rank": 179,
+      "name": "Plopski",
+      "entropy": 2.790261432201273
+    },
+    {
+      "rank": 180,
+      "name": "Norwi",
+      "entropy": 2.7888096125119524
+    },
+    {
+      "rank": 181,
+      "name": "CRUC1AL",
+      "entropy": 2.7849874712163936
+    },
+    {
+      "rank": 182,
+      "name": "Twistzz",
+      "entropy": 2.7847027772212085
+    },
+    {
+      "rank": 183,
+      "name": "NAF-FLY",
+      "entropy": 2.7707932213811883
+    },
+    {
+      "rank": 184,
+      "name": "ZywOo",
+      "entropy": 2.7656057770583717
+    },
+    {
+      "rank": 185,
+      "name": "MAJ3R",
+      "entropy": 2.7649794433546426
+    },
+    {
+      "rank": 186,
+      "name": "kRaSnaL",
+      "entropy": 2.763770470767664
+    },
+    {
+      "rank": 187,
+      "name": "Smooya",
+      "entropy": 2.733699332524268
+    },
+    {
+      "rank": 188,
+      "name": "DANK1NG",
+      "entropy": 2.7336261809721494
+    },
+    {
+      "rank": 189,
+      "name": "TMB",
+      "entropy": 2.7335881510722393
+    },
+    {
+      "rank": 190,
+      "name": "Krimbo",
+      "entropy": 2.728313819688056
+    },
+    {
+      "rank": 191,
+      "name": "HObbit",
+      "entropy": 2.724702792222414
+    },
+    {
+      "rank": 192,
+      "name": "yel",
+      "entropy": 2.722780725350323
+    },
+    {
+      "rank": 193,
+      "name": "flameZ",
+      "entropy": 2.7172740108923388
+    },
+    {
+      "rank": 194,
+      "name": "fer",
+      "entropy": 2.715644461550999
+    },
+    {
+      "rank": 195,
+      "name": "dennis",
+      "entropy": 2.7072717566949227
+    },
+    {
+      "rank": 196,
+      "name": "ropz",
+      "entropy": 2.7067329931163333
+    },
+    {
+      "rank": 197,
+      "name": "Ex6TenZ",
+      "entropy": 2.7052132019732213
+    },
+    {
+      "rank": 198,
+      "name": "m0NESY",
+      "entropy": 2.703131574252215
+    },
+    {
+      "rank": 199,
+      "name": "HiKo",
+      "entropy": 2.70304607978831
+    },
+    {
+      "rank": 200,
+      "name": "junior",
+      "entropy": 2.7006547498608
+    },
+    {
+      "rank": 201,
+      "name": "n1ssim",
+      "entropy": 2.6974358965149743
+    },
+    {
+      "rank": 202,
+      "name": "EliGE",
+      "entropy": 2.6815193694925634
+    },
+    {
+      "rank": 203,
+      "name": "n0thing",
+      "entropy": 2.6781306775940874
+    },
+    {
+      "rank": 204,
+      "name": "Happy",
+      "entropy": 2.6695261227235285
+    },
+    {
+      "rank": 205,
+      "name": "FaNg",
+      "entropy": 2.668003177992345
+    },
+    {
+      "rank": 206,
+      "name": "ANGE1",
+      "entropy": 2.6668893632930915
+    },
+    {
+      "rank": 207,
+      "name": "KENSI",
+      "entropy": 2.660993445935164
+    },
+    {
+      "rank": 208,
+      "name": "RpK",
+      "entropy": 2.6506667990517316
+    },
+    {
+      "rank": 209,
+      "name": "gla1ve",
+      "entropy": 2.64596138875795
+    },
+    {
+      "rank": 210,
+      "name": "Patsi",
+      "entropy": 2.6314140909099755
+    },
+    {
+      "rank": 211,
+      "name": "kraghen",
+      "entropy": 2.62808514974869
+    },
+    {
+      "rank": 212,
+      "name": "seang@res",
+      "entropy": 2.6246519877843126
+    },
+    {
+      "rank": 213,
+      "name": "fox",
+      "entropy": 2.6161543626888584
+    },
+    {
+      "rank": 214,
+      "name": "torzsi",
+      "entropy": 2.599960393436975
+    },
+    {
+      "rank": 215,
+      "name": "s1n",
+      "entropy": 2.5912145886575932
+    },
+    {
+      "rank": 216,
+      "name": "Woro2k",
+      "entropy": 2.5795348744717246
+    },
+    {
+      "rank": 217,
+      "name": "lux",
+      "entropy": 2.574073841523382
+    },
+    {
+      "rank": 218,
+      "name": "dupreeh",
+      "entropy": 2.5727390914470303
+    },
+    {
+      "rank": 219,
+      "name": "chrisJ",
+      "entropy": 2.563009472511272
+    },
+    {
+      "rank": 220,
+      "name": "LNZ",
+      "entropy": 2.5622256481323284
+    },
+    {
+      "rank": 221,
+      "name": "AZR",
+      "entropy": 2.553289593253618
+    },
+    {
+      "rank": 222,
+      "name": "GeT_RiGhT",
+      "entropy": 2.5447019403171334
+    },
+    {
+      "rank": 223,
+      "name": "advent",
+      "entropy": 2.5365479213897157
+    },
+    {
+      "rank": 224,
+      "name": "HexT",
+      "entropy": 2.536539694723053
+    },
+    {
+      "rank": 225,
+      "name": "xertioN",
+      "entropy": 2.534124758250243
+    },
+    {
+      "rank": 226,
+      "name": "NiKo",
+      "entropy": 2.5332306231198873
+    },
+    {
+      "rank": 227,
+      "name": "cajunb",
+      "entropy": 2.5275135480061084
+    },
+    {
+      "rank": 228,
+      "name": "allu",
+      "entropy": 2.5273179604940585
+    },
+    {
+      "rank": 230,
+      "name": "nqz",
+      "entropy": 2.5227770180390046
+    },
+    {
+      "rank": 231,
+      "name": "dev1ce",
+      "entropy": 2.5077420743832923
+    },
+    {
+      "rank": 232,
+      "name": "F1KU",
+      "entropy": 2.5014974829659544
+    },
+    {
+      "rank": 233,
+      "name": "SLOWLY",
+      "entropy": 2.5014432334553485
+    },
+    {
+      "rank": 234,
+      "name": "roman",
+      "entropy": 2.496941731283481
+    },
+    {
+      "rank": 235,
+      "name": "MUTiRiS",
+      "entropy": 2.496941731283481
+    },
+    {
+      "rank": 236,
+      "name": "JW",
+      "entropy": 2.4867499968142135
+    },
+    {
+      "rank": 237,
+      "name": "Dosia",
+      "entropy": 2.481138141698337
+    },
+    {
+      "rank": 238,
+      "name": "Techno",
+      "entropy": 2.450011520314506
+    },
+    {
+      "rank": 239,
+      "name": "w0nderful",
+      "entropy": 2.420089559980799
+    },
+    {
+      "rank": 240,
+      "name": "olofmeister",
+      "entropy": 2.415757396315251
+    },
+    {
+      "rank": 241,
+      "name": "decenty",
+      "entropy": 2.413855336730636
+    },
+    {
+      "rank": 242,
+      "name": "xfl0ud",
+      "entropy": 2.4094554957113505
+    },
+    {
+      "rank": 243,
+      "name": "kauez",
+      "entropy": 2.4056759164452717
+    },
+    {
+      "rank": 244,
+      "name": "GuardiaN",
+      "entropy": 2.4046915369793203
+    },
+    {
+      "rank": 245,
+      "name": "AdreN",
+      "entropy": 2.37278731158695
+    },
+    {
+      "rank": 246,
+      "name": "f0rest",
+      "entropy": 2.363870951024145
+    },
+    {
+      "rank": 247,
+      "name": "KRIMZ",
+      "entropy": 2.3488857306941506
+    },
+    {
+      "rank": 248,
+      "name": "SmithZz",
+      "entropy": 2.333849364573821
+    },
+    {
+      "rank": 249,
+      "name": "story",
+      "entropy": 2.3266772032599645
+    },
+    {
+      "rank": 250,
+      "name": "starix",
+      "entropy": 2.3215793688244792
+    },
+    {
+      "rank": 251,
+      "name": "Snax",
+      "entropy": 2.2926166311148117
+    },
+    {
+      "rank": 252,
+      "name": "Staehr",
+      "entropy": 2.283203055800525
+    },
+    {
+      "rank": 253,
+      "name": "pashaBiceps",
+      "entropy": 2.211899573084053
+    },
+    {
+      "rank": 254,
+      "name": "rain",
+      "entropy": 2.1825475357445745
+    },
+    {
+      "rank": 255,
+      "name": "noway",
+      "entropy": 2.1729964942387867
+    },
+    {
+      "rank": 256,
+      "name": "markeloff",
+      "entropy": 2.1540679961494447
+    },
+    {
+      "rank": 257,
+      "name": "headtr1ck",
+      "entropy": 2.095122127491176
+    },
+    {
+      "rank": 258,
+      "name": "Edward",
+      "entropy": 2.0918040787945027
+    },
+    {
+      "rank": 259,
+      "name": "FalleN",
+      "entropy": 2.0695333937346216
+    },
+    {
+      "rank": 260,
+      "name": "zont1x",
+      "entropy": 2.055524774106473
+    },
+    {
+      "rank": 261,
+      "name": "Wicadia",
+      "entropy": 2.025015153809734
+    },
+    {
+      "rank": 262,
+      "name": "donk",
+      "entropy": 2.0145943565324624
+    },
+    {
+      "rank": 263,
+      "name": "try",
+      "entropy": 1.990485925838403
+    },
+    {
+      "rank": 264,
+      "name": "shox",
+      "entropy": 1.974710497677364
+    },
+    {
+      "rank": 265,
+      "name": "apEX",
+      "entropy": 1.9705493159245941
+    },
+    {
+      "rank": 266,
+      "name": "ICY",
+      "entropy": 1.9688368857984895
+    },
+    {
+      "rank": 267,
+      "name": "Zeus",
+      "entropy": 1.9520141299280507
+    },
+    {
+      "rank": 268,
+      "name": "lauNX",
+      "entropy": 1.879398678651828
+    },
+    {
+      "rank": 269,
+      "name": "karrigan",
+      "entropy": 1.8555246063532562
+    },
+    {
+      "rank": 270,
+      "name": "xizt",
+      "entropy": 1.8554595003646952
+    },
+    {
+      "rank": 271,
+      "name": "Jimpphat",
+      "entropy": 1.802538946012499
+    },
+    {
+      "rank": 272,
+      "name": "Senzu",
+      "entropy": 1.722310218603478
+    },
+    {
+      "rank": 273,
+      "name": "TaZ",
+      "entropy": 1.5360823566705286
+    },
+    {
+      "rank": 274,
+      "name": "NEO",
+      "entropy": 1.4918288104908395
+    },
+    {
+      "rank": 275,
+      "name": "B1ad3",
+      "entropy": 1.3561241251746485
+    }
+  ]
+}

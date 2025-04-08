@@ -1,0 +1,6 @@
+{
+    "type": "PLAYER_READY",
+    "payload": {
+        "connectionId": "0c6dbf4f-bbcd-42f8-9eaf-0729a953a96c"
+    }
+}

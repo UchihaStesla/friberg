@@ -56,7 +56,7 @@ To set up the project, clone the repository and install the required dependencie
 要设置项目，请克隆仓库并安装所需的依赖项：
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/UchihaStesla/friberg.git)
 cd blast-guesser
 pip install -r requirements.txt
 ```
@@ -71,21 +71,17 @@ pip install -r requirements.txt
    打开浏览器并导航到 `http://localhost:8000` 来访问应用程序。
 
 ## API Endpoints / API 端点
-- **POST /guess/manual**: Submit a manual guess and receive recommendations.
+- **POST /manual-guess**: Submit a manual guess and receive recommendations.
   
   提交手动猜测并接收推荐。
   
-- **POST /guess/auto**: Trigger automatic guessing based on player data.
+- **POST /auto-guess**: Trigger automatic guessing based on player data.
   
   根据玩家数据触发自动猜测。
 
-- **GET /players**: Retrieve the list of available players with their attributes.
+- **GET /recommendations**: Get statistics about past guesses and success rates.
   
-  获取具有属性的可用玩家列表。
-
-- **GET /statistics**: Get statistics about past guesses and success rates.
-  
-  获取有关过去猜测和成功率的统计信息。
+  获取选手的推荐信息。
 
 ## Technical Details / 技术细节
 - **FastAPI Framework**: High-performance web framework for building APIs with Python.

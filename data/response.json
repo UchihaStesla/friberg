@@ -1,0 +1,316 @@
+{
+    "lastActivityAt": 1743483414233,
+    "publicLobby": false,
+    "createdAt": 1743481893984,
+    "phase": "end",
+    "players": [
+        {
+            "id": "60a80c3c-c0e2-4041-b14f-a7bc2397738b",
+            "name": "anon-60a80",
+            "avatarId": "86db5c02-430c-4d82-97e8-4e274474396f",
+            "guesses": [],
+            "isReady": true,
+            "draws": 0,
+            "losses": 1,
+            "wins": 0
+        },
+        {
+            "id": "f5ace1f2-9e54-48e8-995e-7d64d1ee1b3e",
+            "name": "anon-f5ace",
+            "avatarId": "86db5c02-430c-4d82-97e8-4e274474396f",
+            "guesses": [
+                {
+                    "id": "c4890797-63a2-46e7-af2c-21c856c5ab3d",
+                    "firstName": "Rasmus ",
+                    "lastName": "Nielsen",
+                    "nickname": "HooXi",
+                    "nationality": {
+                        "value": "DK",
+                        "result": "INCORRECT"
+                    },
+                    "dateOfBirth": "1995-05-21T00:00:00.000Z",
+                    "role": {
+                        "value": "rifler",
+                        "result": "CORRECT"
+                    },
+                    "ingameId": "76561197998926770",
+                    "team": {
+                        "data": null,
+                        "result": "INCORRECT"
+                    },
+                    "dotaMetadata": null,
+                    "csMetadata": {
+                        "role": "rifler",
+                        "majorAppearances": 4
+                    },
+                    "isRetired": false,
+                    "age": {
+                        "value": 29,
+                        "result": "CORRECT"
+                    },
+                    "majorAppearances": {
+                        "value": 4,
+                        "result": "LOW_NOT_CLOSE"
+                    },
+                    "isSuccess": false
+                },
+                {
+                    "id": "1eff821f-0d5e-4b3e-b057-553df590e133",
+                    "firstName": "Russel",
+                    "lastName": "Van Dulken",
+                    "nickname": "Twistzz",
+                    "nationality": {
+                        "value": "CA",
+                        "result": "INCORRECT"
+                    },
+                    "dateOfBirth": "1999-11-14T00:00:00.000Z",
+                    "role": {
+                        "value": "rifler",
+                        "result": "CORRECT"
+                    },
+                    "ingameId": "76561198016255205",
+                    "team": {
+                        "data": {
+                            "id": "b75bce93-54a8-42b1-9b1c-1b16b5512ab7",
+                            "name": "Liquid",
+                            "shortName": "liquid",
+                            "nationality": "US",
+                            "gameId": "cs",
+                            "socialLinks": {},
+                            "externalId": null
+                        },
+                        "result": "CORRECT"
+                    },
+                    "dotaMetadata": null,
+                    "csMetadata": {
+                        "role": "rifler",
+                        "majorAppearances": 8
+                    },
+                    "isRetired": false,
+                    "age": {
+                        "value": 25,
+                        "result": "LOW_NOT_CLOSE"
+                    },
+                    "majorAppearances": {
+                        "value": 8,
+                        "result": "CORRECT"
+                    },
+                    "isSuccess": false
+                },
+                {
+                    "id": "e2ebf15c-4e54-48f4-9ff3-b4a8346cb660",
+                    "firstName": "Justin",
+                    "lastName": "Savage",
+                    "nickname": "jks",
+                    "nationality": {
+                        "value": "AU",
+                        "result": "CORRECT"
+                    },
+                    "dateOfBirth": "1995-12-12T00:00:00.000Z",
+                    "role": {
+                        "value": "rifler",
+                        "result": "CORRECT"
+                    },
+                    "ingameId": "76561197977105184",
+                    "team": {
+                        "data": {
+                            "id": "b75bce93-54a8-42b1-9b1c-1b16b5512ab7",
+                            "name": "Liquid",
+                            "shortName": "liquid",
+                            "nationality": "US",
+                            "gameId": "cs",
+                            "socialLinks": {},
+                            "externalId": null
+                        },
+                        "result": "CORRECT"
+                    },
+                    "dotaMetadata": null,
+                    "csMetadata": {
+                        "role": "rifler",
+                        "majorAppearances": 8
+                    },
+                    "isRetired": false,
+                    "age": {
+                        "value": 29,
+                        "result": "CORRECT"
+                    },
+                    "majorAppearances": {
+                        "value": 8,
+                        "result": "CORRECT"
+                    },
+                    "isSuccess": true
+                }
+            ],
+            "isReady": true,
+            "draws": 0,
+            "losses": 0,
+            "wins": 1
+        }
+    ],
+    "roundHistory": [
+        {
+            "round": 9,
+            "players": [
+                {
+                    "id": "60a80c3c-c0e2-4041-b14f-a7bc2397738b",
+                    "guesses": []
+                },
+                {
+                    "id": "f5ace1f2-9e54-48e8-995e-7d64d1ee1b3e",
+                    "guesses": [
+                        {
+                            "id": "c4890797-63a2-46e7-af2c-21c856c5ab3d",
+                            "firstName": "Rasmus ",
+                            "lastName": "Nielsen",
+                            "nickname": "HooXi",
+                            "nationality": {
+                                "value": "DK",
+                                "result": "INCORRECT"
+                            },
+                            "dateOfBirth": "1995-05-21T00:00:00.000Z",
+                            "role": {
+                                "value": "rifler",
+                                "result": "CORRECT"
+                            },
+                            "ingameId": "76561197998926770",
+                            "team": {
+                                "data": null,
+                                "result": "INCORRECT"
+                            },
+                            "dotaMetadata": null,
+                            "csMetadata": {
+                                "role": "rifler",
+                                "majorAppearances": 4
+                            },
+                            "isRetired": false,
+                            "age": {
+                                "value": 29,
+                                "result": "CORRECT"
+                            },
+                            "majorAppearances": {
+                                "value": 4,
+                                "result": "LOW_NOT_CLOSE"
+                            },
+                            "isSuccess": false
+                        },
+                        {
+                            "id": "1eff821f-0d5e-4b3e-b057-553df590e133",
+                            "firstName": "Russel",
+                            "lastName": "Van Dulken",
+                            "nickname": "Twistzz",
+                            "nationality": {
+                                "value": "CA",
+                                "result": "INCORRECT"
+                            },
+                            "dateOfBirth": "1999-11-14T00:00:00.000Z",
+                            "role": {
+                                "value": "rifler",
+                                "result": "CORRECT"
+                            },
+                            "ingameId": "76561198016255205",
+                            "team": {
+                                "data": {
+                                    "id": "b75bce93-54a8-42b1-9b1c-1b16b5512ab7",
+                                    "name": "Liquid",
+                                    "shortName": "liquid",
+                                    "nationality": "US",
+                                    "gameId": "cs",
+                                    "socialLinks": {},
+                                    "externalId": null
+                                },
+                                "result": "CORRECT"
+                            },
+                            "dotaMetadata": null,
+                            "csMetadata": {
+                                "role": "rifler",
+                                "majorAppearances": 8
+                            },
+                            "isRetired": false,
+                            "age": {
+                                "value": 25,
+                                "result": "LOW_NOT_CLOSE"
+                            },
+                            "majorAppearances": {
+                                "value": 8,
+                                "result": "CORRECT"
+                            },
+                            "isSuccess": false
+                        },
+                        {
+                            "id": "e2ebf15c-4e54-48f4-9ff3-b4a8346cb660",
+                            "firstName": "Justin",
+                            "lastName": "Savage",
+                            "nickname": "jks",
+                            "nationality": {
+                                "value": "AU",
+                                "result": "CORRECT"
+                            },
+                            "dateOfBirth": "1995-12-12T00:00:00.000Z",
+                            "role": {
+                                "value": "rifler",
+                                "result": "CORRECT"
+                            },
+                            "ingameId": "76561197977105184",
+                            "team": {
+                                "data": {
+                                    "id": "b75bce93-54a8-42b1-9b1c-1b16b5512ab7",
+                                    "name": "Liquid",
+                                    "shortName": "liquid",
+                                    "nationality": "US",
+                                    "gameId": "cs",
+                                    "socialLinks": {},
+                                    "externalId": null
+                                },
+                                "result": "CORRECT"
+                            },
+                            "dotaMetadata": null,
+                            "csMetadata": {
+                                "role": "rifler",
+                                "majorAppearances": 8
+                            },
+                            "isRetired": false,
+                            "age": {
+                                "value": 29,
+                                "result": "CORRECT"
+                            },
+                            "majorAppearances": {
+                                "value": 8,
+                                "result": "CORRECT"
+                            },
+                            "isSuccess": true
+                        }
+                    ]
+                }
+            ],
+            "roundWinner": "",
+            "roundCorrectGuess": {
+                "id": "e2ebf15c-4e54-48f4-9ff3-b4a8346cb660",
+                "nickname": "jks",
+                "isRetired": false,
+                "nationality": "AU",
+                "team": "liquid",
+                "age": 1995,
+                "majorAppearances": 8,
+                "role": "rifler"
+            },
+            "roundStartTimestamp": 1743483382004,
+            "roundEndTimestamp": 1743483414233
+        }
+    ],
+    "meta": {
+        "bestOf": "best_of_3",
+        "difficulty": "pro",
+        "currentRound": 9,
+        "maxPlayers": 2,
+        "minPlayers": 2,
+        "maxGuesses": 8,
+        "startTimestamp": 1743483382004,
+        "currentRoundWinnerId": "f5ace1f2-9e54-48e8-995e-7d64d1ee1b3e",
+        "currentRoundDraw": false,
+        "nextRoundTimestamp": 1743483424233,
+        "currentRoundRightPlayerId": "e2ebf15c-4e54-48f4-9ff3-b4a8346cb660",
+        "endTimestamp": 1743483442005,
+        "userId": "f5ace1f2-9e54-48e8-995e-7d64d1ee1b3e",
+        "room": "XH35UH"
+    }
+}

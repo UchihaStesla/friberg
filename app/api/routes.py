@@ -1,7 +1,6 @@
-from fastapi import APIRouter, HTTPException, WebSocket, WebSocketDisconnect, Depends
+from fastapi import APIRouter, HTTPException
 from app.models.schemas import RoomConnection, PlayerGuess, GuessResult, RecommendationResponse, ConstraintUpdate
 from app.services.game_service import GameService
-import json
 
 router = APIRouter(prefix="/api")
 
@@ -41,23 +40,6 @@ async def auto_guess(connection: RoomConnection):
         return GuessResult(success=result["success"], message=result["message"])
     except Exception as e:
         return GuessResult(success=False, message=f"自动猜测过程中出错: {str(e)}")
-
-@router.post("/recommendations", response_model=RecommendationResponse)
-async def get_recommendations(connection: RoomConnection):
-    """获取推荐玩家列表"""
-    try:
-        result = await GameService.get_recommendations(connection.room_id)
-        # 修复数据结构处理方式，确保recommendations是列表类型
-        return RecommendationResponse(
-            success=True, 
-            recommendations=result['recommendations'],  # 确保这是列表
-            game_metadata=result['game_metadata'],
-            constraints=result['constraints']
-        )
-    except Exception as e:
-        import traceback
-        traceback.print_exc()
-        return RecommendationResponse(success=False, message=f"获取推荐失败: {str(e)}")
 
 @router.post("/update-constraints", response_model=RecommendationResponse)
 async def update_constraints(constraint_update: ConstraintUpdate, connection: RoomConnection):
